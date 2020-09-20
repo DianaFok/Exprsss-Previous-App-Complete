@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  list-style-position: inside;
+  background-image: url('bk.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 519px;
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: 'Dancing Script', cursive;
+  margin-bottom: 1rem;
+}
+
+button {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2rem;
+}
+
+input {
+  height: 2rem;
+  width: 20rem;
+  font-size: 1.5rem;
+}
+
+ul {
+  font-size: 2rem;
+  font-family: 'Josefin Sans', sans-serif;
+}
